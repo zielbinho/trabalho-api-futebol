@@ -4,9 +4,9 @@ Uma API REST para gerenciar jogadores de futebol e seus respectivos pagamentos.
 
 # Desenvolvido por:
 
-   * Alan Felipe Dias Wisniewski
-   * Gabriel Henrique Pereira Guimarães
-   * Rafael Henrique Mauda Scos
+   * Alan Felipe Dias Wisniewski - RA: 22000126
+   * Gabriel Henrique Pereira Guimarães - RA: 22001726
+   * Rafael Henrique Mauda Scos - RA: 22014026
 
 ## Descrição
 
